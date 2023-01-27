@@ -2,8 +2,8 @@
 <p align='center'>
 </p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Andres179012.Andres179012)
+[![Github](https://img.shields.io/github/followers/Andres179012?label=Follow&style=social)](https://github.com/Andres179012)
 
 <div size='20px'> Hi! My name is Andres. Thank You for taking the time to view my GitHub Profile :smile:
 </div>
