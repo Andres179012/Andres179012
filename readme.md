@@ -28,7 +28,9 @@
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<div flex>
+<div 
+    display='flex'
+>
 <a href = 'https://www.linkedin.com/in/andresdevuiux'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href = 'https://www.twitter.com/Andres96160755'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
 <a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
@@ -39,8 +41,8 @@
 <br>
   <br>
 
- ![Andres179012 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Andres179012&theme=redical&hide_border=true&area=true)
-| ![Andres179012 github stats](https://github-readme-stats.vercel.app/api?username=Andres179012&show_icons=true&theme=radical)             | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andres179012&theme=radical)                                                                                                           |
+ (https://activity-graph.herokuapp.com/graph?username=Andres179012&theme=redical&hide_border=true&area=true)
+ ![Andres179012 github stats](https://github-readme-stats.vercel.app/api?username=Andres179012&show_icons=true&theme=radical)           ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andres179012&theme=radical)                                                                                                           |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres179012&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Andres179012&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
