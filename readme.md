@@ -1,18 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+
 <body>
     <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Andres179012.Andres179012)
-[![Github](https://img.shields.io/github/followers/Andres179012?label=Follow&style=social)](https://github.com/Andres179012)
 
 <div size='20px'> Hi! My name is Andres. Thank You for taking the time to view my GitHub Profile :smile:
 </div>
