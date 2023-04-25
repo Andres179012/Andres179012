@@ -19,7 +19,7 @@
 
 - 💬 Talk to me about JavaScript or Freelancing Opportunites
 
-<figure><embed src="https://wakatime.com/share/@Andres1790/20b803d8-8bd4-4790-8111-274187731ae9.svg"></embed></figure>
+![Andres179012 Wakatime](https://wakatime.com/share/@Andres1790/6e1f3d44-0f34-4a1e-acb1-0440eab473e7.svg)
 
 ![Andres179012 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andres179012&theme=radical)                                                                                                           
 
